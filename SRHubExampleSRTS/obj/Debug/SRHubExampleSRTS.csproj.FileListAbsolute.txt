@@ -1,0 +1,38 @@
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\SRHubsTT.dll
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Microsoft.Owin.dll
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Owin.dll
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\SRHubsTT.dll.config
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\SRHubsTT.pdb
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Microsoft.Owin.Security.dll
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Newtonsoft.Json.dll
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Microsoft.Owin.xml
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Microsoft.Owin.Security.xml
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\bin\Newtonsoft.Json.xml
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\obj\Debug\SRHubExampleSRTS.csprojResolveAssemblyReference.cache
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\obj\Debug\SRHubsTT.dll
+C:\Users\nwolverson\Documents\Visual Studio 2013\Projects\SignalRTest\SRHubExampleSRTS\obj\Debug\SRHubsTT.pdb
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\SRHubsTT.dll.config
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\SRHubsTT.dll
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\SRHubsTT.pdb
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Microsoft.Owin.dll
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Microsoft.Owin.Security.dll
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Newtonsoft.Json.dll
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Owin.dll
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Microsoft.Owin.xml
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Microsoft.Owin.Security.xml
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\bin\Newtonsoft.Json.xml
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\obj\Debug\SRHubExampleSRTS.csprojResolveAssemblyReference.cache
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\obj\Debug\SRHubsTT.dll
+C:\Projects\VS2015\blog-signalrtyped-master\SRHubExampleSRTS\obj\Debug\SRHubsTT.pdb
